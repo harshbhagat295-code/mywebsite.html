@@ -1,2 +1,2 @@
-# mywebsite.html
+# index.html
 My life
